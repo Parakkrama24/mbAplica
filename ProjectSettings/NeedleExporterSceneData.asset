@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Scenes:
-  - Path: Assets/Scenes/test.unity
+  - Path: Assets/Scenes/SampleScene.unity
     Projects:
-    - ProjectPath: Needle/test
+    - ProjectPath: Needle/SampleScene
     BuilderScene: 
   Projects:
-  - ProjectPath: Needle/test
+  - ProjectPath: Needle/SampleScene

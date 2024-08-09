@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "com.needle.engine-exporter": "3.47.1-pre",
-    "com.needle.engine-samples": "0.17.2",
     "com.unity.collab-proxy": "2.4.4",
     "com.unity.ide.visualstudio": "2.0.22",
     "com.unity.ide.vscode": "1.2.5",
@@ -49,7 +47,8 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.modules.xr": "1.0.0",
+    "com.needle.engine-exporter": "3.47.2-pre"
   },
   "scopedRegistries": [
     {
